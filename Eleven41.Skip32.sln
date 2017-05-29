@@ -1,11 +1,13 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
+Microsoft Visual Studio Solution File, Format Version 15.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eleven41.Skip32", "Eleven41.Skip32\Eleven41.Skip32.csproj", "{686F3AD4-B8FF-4757-A5C7-6CB0DBF3045A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eleven41.Skip32.UnitTests", "Eleven41.Skip32.UnitTests\Eleven41.Skip32.UnitTests.csproj", "{A108FFAD-28F7-4235-A531-E172CB563119}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eleven41.Skip32.Tests", "Eleven41.Skip32.Tests\Eleven41.Skip32.Tests.csproj", "{D1507BB1-B7DF-428C-9971-6E5F62E785EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,6 +39,18 @@ Global
 		{A108FFAD-28F7-4235-A531-E172CB563119}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{A108FFAD-28F7-4235-A531-E172CB563119}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{A108FFAD-28F7-4235-A531-E172CB563119}.Release|Win32.ActiveCfg = Release|Any CPU
+		{D1507BB1-B7DF-428C-9971-6E5F62E785EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1507BB1-B7DF-428C-9971-6E5F62E785EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1507BB1-B7DF-428C-9971-6E5F62E785EF}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{D1507BB1-B7DF-428C-9971-6E5F62E785EF}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{D1507BB1-B7DF-428C-9971-6E5F62E785EF}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{D1507BB1-B7DF-428C-9971-6E5F62E785EF}.Debug|Win32.Build.0 = Debug|Any CPU
+		{D1507BB1-B7DF-428C-9971-6E5F62E785EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1507BB1-B7DF-428C-9971-6E5F62E785EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1507BB1-B7DF-428C-9971-6E5F62E785EF}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{D1507BB1-B7DF-428C-9971-6E5F62E785EF}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{D1507BB1-B7DF-428C-9971-6E5F62E785EF}.Release|Win32.ActiveCfg = Release|Any CPU
+		{D1507BB1-B7DF-428C-9971-6E5F62E785EF}.Release|Win32.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

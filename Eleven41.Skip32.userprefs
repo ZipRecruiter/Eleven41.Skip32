@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{D1507BB1-B7DF-428C-9971-6E5F62E785EF}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Eleven41.Skip32/Eleven41.Skip32.nuspec">
+    <Files>
+      <File FileName="Eleven41.Skip32/obj/Debug/netstandard1.4/Eleven41.Skip32.AssemblyInfo.cs" Line="17" Column="1" />
+      <File FileName="Eleven41.Skip32/Skip32CipherKeyFormat.cs" Line="2" Column="1" />
+      <File FileName="Eleven41.Skip32/Skip32Cipher.cs" Line="1" Column="1" />
+      <File FileName="Eleven41.Skip32/Eleven41.Skip32.nuspec" Line="5" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Eleven41.Skip32.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
